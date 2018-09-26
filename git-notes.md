@@ -4,3 +4,9 @@
 one commit = one snapshop. GIT stores the changes betweem snapshots, not the whole files.\
 The great feature about GIT is that you can easily restore the whole project to a previous snapshot and then\
 get back to the latest snapshot.
+Some importants commands:\
+git init # initialize repo: creates .git\
+git status # VERY important, use it all the TIME\
+git add #add new edits to staging area\
+
+ 
