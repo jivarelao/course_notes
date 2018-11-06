@@ -10,5 +10,8 @@ git init # initialize repo: creates .git\
 git status # VERY important, use it all the TIME\
 git add #add new edits to staging area\
 More useful commands can be found [here](http://cecileane.github.io/computingtools/pages/notes0927.html)
-
+9/26
+when we create a git repository by git init it creates a new .git folder, if you want to make it a benign folder again you just have to remove thta folder
+if you want to remove that igt folder you need "rm -f".
+Git push upload the commits to the cloud, git pulls does the opposite
  
